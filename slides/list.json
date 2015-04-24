@@ -1,22 +1,17 @@
 [
     "index.html",
+    "idea.html",
     "summary.html",
-    [
-        "php.html",
-        "ko-ne.html"
-    ],
-    [
-        "python.html",
-        "slow.html"
-    ],
-    "others.html",
     [
         "javascript.html",
         "mean.html"
     ],
-    "api.html",
-    "web.html",
-    "sdk.html",
+    [
+        "system.html",
+        "api.html",
+        "web.html",
+        "sdk.html"
+    ],
     "demo.html",
     "devices.html",
     "quetions.html",
