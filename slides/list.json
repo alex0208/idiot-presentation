@@ -1,16 +1,17 @@
 [
     "index.html",
-    "idea.html",
+    "target.html",
+    "iot.html",
     "summary.html",
     [
         "javascript.html",
+        "hashtag.html",
         "mean.html"
     ],
     [
         "system.html",
         "api.html",
-        "web.html",
-        "sdk.html"
+        "web.html"
     ],
     "demo.html",
     "devices.html",
